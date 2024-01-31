@@ -11,3 +11,6 @@ print("Hello Manchester United!")
 ```
 cd ./home/manchester_united
 ```
+- [x] Daily Coding Practice
+- [x] Drinking Coffe
+- [ ] Finishing Markdown Practice
